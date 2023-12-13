@@ -15,7 +15,8 @@ I've made the project using Python, SQL, VS code, etc. It involves all the calcu
 2. Open project in VS Code.
 3. Install following libraries using command: `pip install tabula-py pandas pandasql`.
 4. Uncomment line 144 in `script.py` or you can search the line by `gen_csv()`. It will generate csv files from given pdf data.
-5. Run the file `script.py` (As shown in SS).
+5. Run the file `script.py` (As shown in SS).<img width="960" alt="image" src="https://github.com/RahulChouhan96/compute_loan_koshai/assets/42366136/99b8abc4-04e7-4a55-9c84-8068718479a1">
+
 6. Input data and output results will be generated in the directories mentioned above in csv files.
 
 
